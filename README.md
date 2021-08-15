@@ -18,8 +18,10 @@
   <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Raquel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="Raquel-Foto" height="150" width="150" src="https://media.discordapp.net/attachments/842198718106042389/876293332677042186/download20210806233008.png?width=389&height=389"
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </div>
+ 
+ </div>
+   
+![Snake animation](https://github.com/raquelsantoss/raquelsantoss/blob/output/github-contribution-grid-snake.svg)
     
      
   
