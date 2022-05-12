@@ -8,7 +8,7 @@
   <a href="https://github.com/raquelsantoss">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelsantoss&show_icons=false&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelsantoss&layout=compact&langs_count=16&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelsantoss&layout=compact&langs_count=7&theme=midnight-purple"/>
+  
 </div>
   
 
