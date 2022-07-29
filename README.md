@@ -1,7 +1,6 @@
 ## Hey! meu nome é RAQUEL, sinta-se à vontade ☕
 
 
-- Desenvolvedora Front End 👁
 - Estudante de Ciência da Computação 💻
 
  <div>
