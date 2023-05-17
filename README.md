@@ -2,6 +2,7 @@
 
 
 - Estudante de Ciência da Computação 💻
+- Atualmente trabalhando como desenvolvedora Full Stack na V360
 
  <div>
   <a href="https://github.com/raquelsantoss">
