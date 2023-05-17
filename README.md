@@ -1,8 +1,8 @@
 ## Hey! meu nome é RAQUEL, sinta-se à vontade ☕
 
 
-- Estudante de Ciência da Computação 💻
-- Atualmente trabalhando como desenvolvedora Full Stack na V360
+- Computer Science student 💻
+- Currently working as a Full Stack Developer at V360
 
  <div>
   <a href="https://github.com/raquelsantoss">
