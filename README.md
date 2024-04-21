@@ -2,7 +2,7 @@
 
 
 - Computer Science student 💻
-- Currently working as a Full Stack Developer at V360
+
 
  <div>
   <a href="https://github.com/raquelsantoss">
